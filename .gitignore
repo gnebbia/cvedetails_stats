@@ -4,6 +4,7 @@ __pycache__
 *.csv
 queries.txt
 tests_draft.txt
+cve_total.csv
 
 
 # Virtual Environment
